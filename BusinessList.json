@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Pizza Palace",
+    "category": "Food",
+    "imageUrl": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "Best pizza in town",
+    "address": "123 Main Street",
+    "icon": "https://cdn-icons-png.flaticon.com/128/6389/6389521.png",
+    "contact": "252 619503178",
+    "website": "https://www.PizzaPalace.com"
+  },
+  {
+    "name": "Burger Haven",
+    "category": "Food",
+    "imageUrl": "https://images.pexels.com/photos/160071/pexels-photo-160071.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "Delicious gourmet burgers",
+    "address": "456 Burger Blvd",
+    "icon": "https://cdn-icons-png.flaticon.com/128/1046/1046784.png",
+    "contact": "252 619503179",
+    "website": "https://www.BurgerHaven.com"
+  },
+  {
+    "name": "Fresh Greens Grocery",
+    "category": "Supermarket",
+    "imageUrl": "https://images.pexels.com/photos/2294472/pexels-photo-2294472.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "Organic and fresh produce",
+    "address": "789 Green Street",
+    "icon": "https://cdn-icons-png.flaticon.com/128/1828/1828733.png",
+    "contact": "252 619503180",
+    "website": "https://www.FreshGreens.com"
+  },
+  {
+    "name": "Tech World Electronics",
+    "category": "Shopping",
+    "imageUrl": "https://images.pexels.com/photos/2381249/pexels-photo-2381249.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "Latest gadgets and electronics",
+    "address": "123 Tech Lane",
+    "icon": "https://cdn-icons-png.flaticon.com/128/747/747376.png",
+    "contact": "252 619503181",
+    "website": "https://www.TechWorld.com"
+  },
+  {
+    "name": "The Coffee Spot",
+    "category": "Food",
+    "imageUrl": "https://images.pexels.com/photos/373076/pexels-photo-373076.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "Cozy cafe with the best coffee",
+    "address": "456 Brew Ave",
+    "icon": "https://cdn-icons-png.flaticon.com/128/1046/1046785.png",
+    "contact": "252 619503182",
+    "website": "https://www.CoffeeSpot.com"
+  },
+  {
+    "name": "Healthy Bites",
+    "category": "Food",
+    "imageUrl": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "Nutritious meals for a healthy lifestyle",
+    "address": "789 Wellness Blvd",
+    "icon": "https://cdn-icons-png.flaticon.com/128/763/763808.png",
+    "contact": "252 619503183",
+    "website": "https://www.HealthyBites.com"
+  },
+  {
+    "name": "Fuel Up Gas Station",
+    "category": "Gas",
+    "imageUrl": "https://images.pexels.com/photos/2964102/pexels-photo-2964102.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "Your local gas station",
+    "address": "123 Pump St",
+    "icon": "https://cdn-icons-png.flaticon.com/128/686/686275.png",
+    "contact": "252 619503184",
+    "website": "https://www.FuelUp.com"
+  },
+  {
+    "name": "Urban Styles",
+    "category": "Shopping",
+    "imageUrl": "https://images.pexels.com/photos/1036856/pexels-photo-1036856.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "Fashionable clothing for the modern individual",
+    "address": "456 Fashion Street",
+    "icon": "https://cdn-icons-png.flaticon.com/128/861/861060.png",
+    "contact": "252 619503185",
+    "website": "https://www.UrbanStyles.com"
+  },
+  {
+    "name": "The Food Basket",
+    "category": "Supermarket",
+    "imageUrl": "https://images.pexels.com/photos/1098597/pexels-photo-1098597.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "Everything you need in one place",
+    "address": "789 Market Ave",
+    "icon": "https://cdn-icons-png.flaticon.com/128/3720/3720452.png",
+    "contact": "252 619503186",
+    "website": "https://www.TheFoodBasket.com"
+  },
+  {
+    "name": "TechZone",
+    "category": "Shopping",
+    "imageUrl": "https://images.pexels.com/photos/1092660/pexels-photo-1092660.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "Your one-stop shop for the latest technology",
+    "address": "123 Silicon Valley",
+    "icon": "https://cdn-icons-png.flaticon.com/128/1040/1040487.png",
+    "contact": "252 619503187",
+    "website": "https://www.TechZone.com"
+  },
+  {
+    "name": "The Fresh Mart",
+    "category": "Supermarket",
+    "imageUrl": "https://images.pexels.com/photos/1493723/pexels-photo-1493723.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "Fresh groceries at your convenience",
+    "address": "123 Greenway",
+    "icon": "https://cdn-icons-png.flaticon.com/128/812/812848.png",
+    "contact": "252 619503188",
+    "website": "https://www.TheFreshMart.com"
+  },
+  {
+    "name": "Deluxe Fashion",
+    "category": "Shopping",
+    "imageUrl": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "Exclusive clothing and accessories",
+    "address": "456 Luxury Lane",
+    "icon": "https://cdn-icons-png.flaticon.com/128/1187/1187563.png",
+    "contact": "252 619503189",
+    "website": "https://www.DeluxeFashion.com"
+  },
+  {
+    "name": "Speedy Auto Service",
+    "category": "Services",
+    "imageUrl": "https://images.pexels.com/photos/4489736/pexels-photo-4489736.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "Reliable auto repairs and maintenance",
+    "address": "123 Auto Drive",
+    "icon": "https://cdn-icons-png.flaticon.com/128/1271/1271333.png",
+    "contact": "252 619503190",
+    "website": "https://www.SpeedyAuto.com"
+  },
+  {
+    "name": "Gourmet Delights",
+    "category": "Food",
+    "imageUrl": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "about": "A fine dining experience",
+    "address": "789 Gourmet Blvd",
+    "icon": "https://cdn-icons-png.flaticon.com/128/859/859955.png",
+    "contact": "252 619503192",
+    "website": "https://www.GourmetDelights.com"
+  }
+]
